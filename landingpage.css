@@ -78,7 +78,7 @@ body{
 }
 #main{
     
-    margin: 30px 20px 20px 30px;
+    margin: 30px 20px 20px 80px;
     width: 52%;
     min-height: 400px;
     border:1.5px solid rgba(54, 21, 54, 0.3);
